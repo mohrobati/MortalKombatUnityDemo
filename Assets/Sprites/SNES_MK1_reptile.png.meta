@@ -1,0 +1,5844 @@
+fileFormatVersion: 2
+guid: ea1a0dbcbe2b94832a6b0efc80cad3d3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES_MK1_reptile_0
+    21300002: SNES_MK1_reptile_1
+    21300004: SNES_MK1_reptile_2
+    21300006: SNES_MK1_reptile_3
+    21300008: SNES_MK1_reptile_4
+    21300010: SNES_MK1_reptile_5
+    21300012: SNES_MK1_reptile_6
+    21300014: SNES_MK1_reptile_7
+    21300016: SNES_MK1_reptile_8
+    21300018: SNES_MK1_reptile_9
+    21300020: SNES_MK1_reptile_10
+    21300022: SNES_MK1_reptile_11
+    21300024: SNES_MK1_reptile_12
+    21300026: SNES_MK1_reptile_13
+    21300028: SNES_MK1_reptile_14
+    21300030: SNES_MK1_reptile_15
+    21300032: SNES_MK1_reptile_16
+    21300034: SNES_MK1_reptile_17
+    21300036: SNES_MK1_reptile_18
+    21300038: SNES_MK1_reptile_19
+    21300040: SNES_MK1_reptile_20
+    21300042: SNES_MK1_reptile_21
+    21300044: SNES_MK1_reptile_22
+    21300046: SNES_MK1_reptile_23
+    21300048: SNES_MK1_reptile_24
+    21300050: SNES_MK1_reptile_25
+    21300052: SNES_MK1_reptile_26
+    21300054: SNES_MK1_reptile_27
+    21300056: SNES_MK1_reptile_28
+    21300058: SNES_MK1_reptile_29
+    21300060: SNES_MK1_reptile_30
+    21300062: SNES_MK1_reptile_31
+    21300064: SNES_MK1_reptile_32
+    21300066: SNES_MK1_reptile_33
+    21300068: SNES_MK1_reptile_34
+    21300070: SNES_MK1_reptile_35
+    21300072: SNES_MK1_reptile_36
+    21300074: SNES_MK1_reptile_37
+    21300076: SNES_MK1_reptile_38
+    21300078: SNES_MK1_reptile_39
+    21300080: SNES_MK1_reptile_40
+    21300082: SNES_MK1_reptile_41
+    21300084: SNES_MK1_reptile_42
+    21300086: SNES_MK1_reptile_43
+    21300088: SNES_MK1_reptile_44
+    21300090: SNES_MK1_reptile_45
+    21300092: SNES_MK1_reptile_46
+    21300094: SNES_MK1_reptile_47
+    21300096: SNES_MK1_reptile_48
+    21300098: SNES_MK1_reptile_49
+    21300100: SNES_MK1_reptile_50
+    21300102: SNES_MK1_reptile_51
+    21300104: SNES_MK1_reptile_52
+    21300106: SNES_MK1_reptile_53
+    21300108: SNES_MK1_reptile_54
+    21300110: SNES_MK1_reptile_55
+    21300112: SNES_MK1_reptile_56
+    21300114: SNES_MK1_reptile_57
+    21300116: SNES_MK1_reptile_58
+    21300118: SNES_MK1_reptile_59
+    21300120: SNES_MK1_reptile_60
+    21300122: SNES_MK1_reptile_61
+    21300124: SNES_MK1_reptile_62
+    21300126: SNES_MK1_reptile_63
+    21300128: SNES_MK1_reptile_64
+    21300130: SNES_MK1_reptile_65
+    21300132: SNES_MK1_reptile_66
+    21300134: SNES_MK1_reptile_67
+    21300136: SNES_MK1_reptile_68
+    21300138: SNES_MK1_reptile_69
+    21300140: SNES_MK1_reptile_70
+    21300142: SNES_MK1_reptile_71
+    21300144: SNES_MK1_reptile_72
+    21300146: SNES_MK1_reptile_73
+    21300148: SNES_MK1_reptile_74
+    21300150: SNES_MK1_reptile_75
+    21300152: SNES_MK1_reptile_76
+    21300154: SNES_MK1_reptile_77
+    21300156: SNES_MK1_reptile_78
+    21300158: SNES_MK1_reptile_79
+    21300160: SNES_MK1_reptile_80
+    21300162: SNES_MK1_reptile_81
+    21300164: SNES_MK1_reptile_82
+    21300166: SNES_MK1_reptile_83
+    21300168: SNES_MK1_reptile_84
+    21300170: SNES_MK1_reptile_85
+    21300172: SNES_MK1_reptile_86
+    21300174: SNES_MK1_reptile_87
+    21300176: SNES_MK1_reptile_88
+    21300178: SNES_MK1_reptile_89
+    21300180: SNES_MK1_reptile_90
+    21300182: SNES_MK1_reptile_91
+    21300184: SNES_MK1_reptile_92
+    21300186: SNES_MK1_reptile_93
+    21300188: SNES_MK1_reptile_94
+    21300190: SNES_MK1_reptile_95
+    21300192: SNES_MK1_reptile_96
+    21300194: SNES_MK1_reptile_97
+    21300196: SNES_MK1_reptile_98
+    21300198: SNES_MK1_reptile_99
+    21300200: SNES_MK1_reptile_100
+    21300202: SNES_MK1_reptile_101
+    21300204: SNES_MK1_reptile_102
+    21300206: SNES_MK1_reptile_103
+    21300208: SNES_MK1_reptile_104
+    21300210: SNES_MK1_reptile_105
+    21300212: SNES_MK1_reptile_106
+    21300214: SNES_MK1_reptile_107
+    21300216: SNES_MK1_reptile_108
+    21300218: SNES_MK1_reptile_109
+    21300220: SNES_MK1_reptile_110
+    21300222: SNES_MK1_reptile_111
+    21300224: SNES_MK1_reptile_112
+    21300226: SNES_MK1_reptile_113
+    21300228: SNES_MK1_reptile_114
+    21300230: SNES_MK1_reptile_115
+    21300232: SNES_MK1_reptile_116
+    21300234: SNES_MK1_reptile_117
+    21300236: SNES_MK1_reptile_118
+    21300238: SNES_MK1_reptile_119
+    21300240: SNES_MK1_reptile_120
+    21300242: SNES_MK1_reptile_121
+    21300244: SNES_MK1_reptile_122
+    21300246: SNES_MK1_reptile_123
+    21300248: SNES_MK1_reptile_124
+    21300250: SNES_MK1_reptile_125
+    21300252: SNES_MK1_reptile_126
+    21300254: SNES_MK1_reptile_127
+    21300256: SNES_MK1_reptile_128
+    21300258: SNES_MK1_reptile_129
+    21300260: SNES_MK1_reptile_130
+    21300262: SNES_MK1_reptile_131
+    21300264: SNES_MK1_reptile_132
+    21300266: SNES_MK1_reptile_133
+    21300268: SNES_MK1_reptile_134
+    21300270: SNES_MK1_reptile_135
+    21300272: SNES_MK1_reptile_136
+    21300274: SNES_MK1_reptile_137
+    21300276: SNES_MK1_reptile_138
+    21300278: SNES_MK1_reptile_139
+    21300280: SNES_MK1_reptile_140
+    21300282: SNES_MK1_reptile_141
+    21300284: SNES_MK1_reptile_142
+    21300286: SNES_MK1_reptile_143
+    21300288: SNES_MK1_reptile_144
+    21300290: SNES_MK1_reptile_145
+    21300292: SNES_MK1_reptile_146
+    21300294: SNES_MK1_reptile_147
+    21300296: SNES_MK1_reptile_148
+    21300298: SNES_MK1_reptile_149
+    21300300: SNES_MK1_reptile_150
+    21300302: SNES_MK1_reptile_151
+    21300304: SNES_MK1_reptile_152
+    21300306: SNES_MK1_reptile_153
+    21300308: SNES_MK1_reptile_154
+    21300310: SNES_MK1_reptile_155
+    21300312: SNES_MK1_reptile_156
+    21300314: SNES_MK1_reptile_157
+    21300316: SNES_MK1_reptile_158
+    21300318: SNES_MK1_reptile_159
+    21300320: SNES_MK1_reptile_160
+    21300322: SNES_MK1_reptile_161
+    21300324: SNES_MK1_reptile_162
+    21300326: SNES_MK1_reptile_163
+    21300328: SNES_MK1_reptile_164
+    21300330: SNES_MK1_reptile_165
+    21300332: SNES_MK1_reptile_166
+    21300334: SNES_MK1_reptile_167
+    21300336: SNES_MK1_reptile_168
+    21300338: SNES_MK1_reptile_169
+    21300340: SNES_MK1_reptile_170
+    21300342: SNES_MK1_reptile_171
+    21300344: SNES_MK1_reptile_172
+    21300346: SNES_MK1_reptile_173
+    21300348: SNES_MK1_reptile_174
+    21300350: SNES_MK1_reptile_175
+    21300352: SNES_MK1_reptile_176
+    21300354: SNES_MK1_reptile_177
+    21300356: SNES_MK1_reptile_178
+    21300358: SNES_MK1_reptile_179
+    21300360: SNES_MK1_reptile_180
+    21300362: SNES_MK1_reptile_181
+    21300364: SNES_MK1_reptile_182
+    21300366: SNES_MK1_reptile_183
+    21300368: SNES_MK1_reptile_184
+    21300370: SNES_MK1_reptile_185
+    21300372: SNES_MK1_reptile_186
+    21300374: SNES_MK1_reptile_187
+    21300376: SNES_MK1_reptile_188
+    21300378: SNES_MK1_reptile_189
+    21300380: SNES_MK1_reptile_190
+    21300382: SNES_MK1_reptile_191
+    21300384: SNES_MK1_reptile_192
+    21300386: SNES_MK1_reptile_193
+    21300388: SNES_MK1_reptile_194
+    21300390: SNES_MK1_reptile_195
+    21300392: SNES_MK1_reptile_196
+    21300394: SNES_MK1_reptile_197
+    21300396: SNES_MK1_reptile_198
+    21300398: SNES_MK1_reptile_199
+    21300400: SNES_MK1_reptile_200
+    21300402: SNES_MK1_reptile_201
+    21300404: SNES_MK1_reptile_202
+    21300406: SNES_MK1_reptile_203
+    21300408: SNES_MK1_reptile_204
+    21300410: SNES_MK1_reptile_205
+    21300412: SNES_MK1_reptile_206
+    21300414: SNES_MK1_reptile_207
+    21300416: SNES_MK1_reptile_208
+    21300418: SNES_MK1_reptile_209
+    21300420: SNES_MK1_reptile_210
+    21300422: SNES_MK1_reptile_211
+    21300424: SNES_MK1_reptile_212
+    21300426: SNES_MK1_reptile_213
+    21300428: SNES_MK1_reptile_214
+    21300430: SNES_MK1_reptile_215
+    21300432: SNES_MK1_reptile_216
+    21300434: SNES_MK1_reptile_217
+    21300436: SNES_MK1_reptile_218
+    21300438: SNES_MK1_reptile_219
+    21300440: SNES_MK1_reptile_220
+    21300442: SNES_MK1_reptile_221
+    21300444: SNES_MK1_reptile_222
+    21300446: SNES_MK1_reptile_223
+    21300448: SNES_MK1_reptile_224
+    21300450: SNES_MK1_reptile_225
+    21300452: SNES_MK1_reptile_226
+    21300454: SNES_MK1_reptile_227
+    21300456: SNES_MK1_reptile_228
+    21300458: SNES_MK1_reptile_229
+    21300460: SNES_MK1_reptile_230
+    21300462: SNES_MK1_reptile_231
+    21300464: SNES_MK1_reptile_232
+    21300466: SNES_MK1_reptile_233
+    21300468: SNES_MK1_reptile_234
+    21300470: SNES_MK1_reptile_235
+    21300472: SNES_MK1_reptile_236
+    21300474: SNES_MK1_reptile_237
+    21300476: SNES_MK1_reptile_238
+    21300478: SNES_MK1_reptile_239
+    21300480: SNES_MK1_reptile_240
+    21300482: SNES_MK1_reptile_241
+    21300484: SNES_MK1_reptile_242
+    21300486: SNES_MK1_reptile_243
+    21300488: SNES_MK1_reptile_244
+    21300490: SNES_MK1_reptile_245
+    21300492: SNES_MK1_reptile_246
+    21300494: SNES_MK1_reptile_247
+    21300496: SNES_MK1_reptile_248
+    21300498: SNES_MK1_reptile_249
+    21300500: SNES_MK1_reptile_250
+    21300502: SNES_MK1_reptile_251
+    21300504: SNES_MK1_reptile_252
+    21300506: SNES_MK1_reptile_253
+    21300508: SNES_MK1_reptile_254
+    21300510: SNES_MK1_reptile_255
+    21300512: SNES_MK1_reptile_256
+    21300514: SNES_MK1_reptile_257
+    21300516: SNES_MK1_reptile_258
+    21300518: SNES_MK1_reptile_259
+    21300520: SNES_MK1_reptile_260
+    21300522: SNES_MK1_reptile_261
+    21300524: SNES_MK1_reptile_262
+    21300526: SNES_MK1_reptile_263
+    21300528: SNES_MK1_reptile_264
+    21300530: SNES_MK1_reptile_265
+    21300532: SNES_MK1_reptile_266
+    21300534: SNES_MK1_reptile_267
+    21300536: SNES_MK1_reptile_268
+    21300538: SNES_MK1_reptile_269
+    21300540: SNES_MK1_reptile_270
+    21300542: SNES_MK1_reptile_271
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1583
+        width: 48
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dadaf7f1608340bebe1010902e886a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1583
+        width: 48
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec9a38100ebb4964be4bcb0fcc38e4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1583
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c8c8be1e77445f69ab40c19d8de234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1583
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac35aa8cf43af4b738de57637b20c6de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1583
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9f59d7a23ae468d83ac0e6cd53b581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1583
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeff648810aa848e4971580fa1db7c1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1583
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cfc921356ad44cf80c471b4363a6cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_7
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1583
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f79631d7d0f94f5ea834a852a1ed014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1583
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913f7926d06d84e4681770e186951599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1583
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8310d64c9828b460486b0b8f7e51007e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_10
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1583
+        width: 44
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d2d3daa765e4e6aac883db6ebbe583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_11
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1583
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c71be12f03244a4090fbb55bcafb2a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_12
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1583
+        width: 46
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb35f1045175f4af48a99819e7b43d4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_13
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1583
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b139a1a38c04c4ef98bd35069cab57b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_14
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1583
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04a98e0047e2411db17d6e9d59f6dcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_15
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1583
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50a59013b1be4b02b6c953ddda3f066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_16
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1583
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7a87d659159480bbbe5ef2cee0200e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_17
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1583
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5744b82188e02434482d96c905603398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_18
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1583
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7db03bb2cfc24ce2adbaa3b1ab5e951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1453
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1a435cf955c4cd39a61d7af49c907a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1453
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f2aaf3d233c466aaefb2ab48b1f718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1453
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d05521b4d11b4c668b5d9fc7e1e0143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_22
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1453
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d2acefb29f94271b677fd40fda48b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1453
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310d754c6bb6c4e0f808410ceb0258dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1453
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229d7b5a5f3f548a9ba329e199f30e0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1453
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a125ca56dcf74c9daee8d4597f68536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_26
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1453
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2376bafc15245c69f88c98c66b2722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1453
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f76cff4e81544cdbf43ad6a8b466fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_28
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1453
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0328d65ef524abeadbaee3abb036b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_29
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1453
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4359efa29074c4b238c978c66405f8cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_30
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1453
+        width: 41
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd16b747f85a4a8d91428d613d99842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_31
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1453
+        width: 40
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0535d82e7cd44fc8b4dba8e184c893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_32
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1453
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ab4de53e62148e2a9869247eeb8edc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_33
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1453
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315424a71d9a24895980730e54dff0b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_34
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1453
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc56dff8e259f4cf09df24fa683e2443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_35
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1453
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f09185474aea4e27801d3ce64a46606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_36
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1453
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e747914dff23448ccb22d48b7f0018f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_37
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1453
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bed01ffe4b04d8faa3ad9c0d3f6d4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_38
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1453
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8400df710ec5a43d880bbabf3538578b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_39
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1453
+        width: 44
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49131291f8f074d7093941212055479f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_40
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1453
+        width: 41
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f1ae2b155394bdd80422600409fe0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_41
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1453
+        width: 41
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d729a6c509cc847a8beb8e9bc5439619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_42
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1453
+        width: 43
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0366e6bd975d145818fe093faf6c2406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_43
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1341
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd206cb78064943f4aac8a6b7b321215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_44
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1341
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ee056e964b4463eab4d7c72251c224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_45
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1341
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ead301dbb5b4f1398947ab0d42c822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_46
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1341
+        width: 42
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e856b95ad51c442389a62a7f5f1ebb89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_47
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1341
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d54c89a58794fd5bfc63d3cae3d144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_48
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1341
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d5e66172bc74cb48e3e252d27bbb2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_49
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1341
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde7766be8da244db8bafffb53334d61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_50
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1341
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd48a2c4ea68946dda865456318a97b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1227
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a129f7f3d68d4deb89e7c850ad81de7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_52
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1227
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cf3d294c26c44969b58fb9a693a497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_53
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1227
+        width: 42
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f1ddd02f52940239109ae9649bb38e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_54
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1227
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe67e4a9c41fd46728f25c747feca25a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_55
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1227
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a191e83c7232541af9fab7c8d7ee6a6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_56
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1227
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0adece097a541d7891bb9dda8290d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_57
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1227
+        width: 73
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeca65f71665344139da0f2fff5d263c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_58
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1227
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ef69723c642431cb3724b4d79ba284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_59
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1227
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eb739729a1c442ca4f7c8ca00ce2b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_60
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1227
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21015e2d630cc4ba2ac6e0cca082a471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_61
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1227
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c09f35b63ef4221b6fc6c250ae1b23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_62
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1227
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56a6fb2e31bf4887ada1180e1ccc5dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_63
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1112
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b85e7779adea4220b71dfd5e587f021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_64
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1112
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b58812c27bc24583a34b6586cdcd544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_65
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1112
+        width: 35
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1155c224ab44bbc8ee6d46b3f4bc49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_66
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1112
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917864e2e5c5d476f950ebfd238614f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_67
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1112
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0371f82896977462c85f143ad7423797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_68
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1112
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f1c169b7ce34cf29e400e34c5b85f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_69
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1112
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e0b083bc5c940b883cd58c4173b42e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_70
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1112
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9274c93c51048c8af9af5c2e07247b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_71
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1112
+        width: 35
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99801587aed7c4742bd16c5c78e0205a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_72
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1112
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9d2f4d5f9124f04a603fd3d24176d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_73
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1112
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0194bf04dc06e4695876c2f327dbdad3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_74
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1112
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2484a8a7689dc438d98b8a70e9bc99a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_75
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1112
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba6821bce0f142958ee7c064748fdc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_76
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1112
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ad762da95cf4574bed469542a70fd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_77
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 997
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ec68252abd64aa7b8167f294fadc21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_78
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 997
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da0ee6f16efe4cee8bffdfb5f33e351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_79
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 997
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2e1837ea3624e6b893f2420fde9154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_80
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 997
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc9d0fa328df4844a3a2696fd8db62f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_81
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 997
+        width: 43
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856afbfc014644981a84b6ceabb6b169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_82
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 997
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051b5b21cbee8424fa88d55605467e44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_83
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 997
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf1d0d75f85d471684558da9be62e60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_84
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 997
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53f324f4eea740209b3bd7271c3d7b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_85
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 997
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b639a9fc4804347909e612c4929046c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_86
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 997
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9608417eb65754841b71194e26d4e8dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_87
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 997
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ed1695737ad4e4f8ed9a49875bd355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_88
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 997
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c903c158dbb4f90bf1968b9722c238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_89
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 997
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bfa5312b2f84ea5acf8d0a954bf8ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_90
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 997
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d90984e0bd96439c8285b0da7b5a8db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_91
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 997
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18e75e93a57a44069e399a37a168078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_92
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 997
+        width: 45
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefdcabdb3d6d48a1b57be945a5b715f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_93
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 863
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc7321ffd0a94037bc1e49b2d654e0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_94
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 863
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82032c29e8ac48beb2499a58a6275da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_95
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 863
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329ac5efd2ac74303a9f77d66ac0720f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_96
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 863
+        width: 42
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f6ae7ab8d2d40639d7d47391a0d127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_97
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 863
+        width: 39
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6752a81d4f2cc4ca781b45abef6eac22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_98
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 863
+        width: 53
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b43185af53544b694cf2e56eb80f7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_99
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 863
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273d917b4cb76492f891aac0cd4d70a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_100
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 863
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2ea4e1d050947238dc50403c16fba2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_101
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 863
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3116bbec085f642239919c2ce7472510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_102
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 863
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797910189d1f44c37838e0fa6d757e81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_103
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 863
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6661ccb068d954accb38f17ba7491aff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_104
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 863
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80547026e2c14056801cfcfd13ef3cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_105
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 863
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d3b8671ebc447d1873d2578e66c2f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_106
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 863
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e6580cfe24c4bf29adec6d27bf6c1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_107
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 863
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb4733ad556241e092790d8cb357da4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_108
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 744
+        width: 46
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeae564de1ef4639863b00064548e1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_109
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 744
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce89186588d9d4de0a26341f2560a40f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_110
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 744
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fda7d4accb4d48ba8d4b05dc9faf182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_111
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 744
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ef1e529ca2c4a1fa16721943f84ae6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_112
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 744
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb2df9fd1b534bbb8d4b88db1e7aa57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_113
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 744
+        width: 54
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61889fe069804fee90ad89f7b64e184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_114
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 744
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a7462db42f24f45a2a3b6740a4fe13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_115
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 744
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1f2ce14dc7c441c847c42e30e281a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_116
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 744
+        width: 35
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72312e16722504196a313c5b4aef7af4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_117
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 744
+        width: 29
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084f18ba598ef4e2aafeb15d9f77bdb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_118
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 744
+        width: 38
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e2cb7067fd04c47ba505c03fcacfb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_119
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 744
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f7e902e6dd74ef2a0ec26e18dbee71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_120
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 744
+        width: 48
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79038f6bbdec44b5a9d2dc25ea727b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_121
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 744
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bfd91b2ed304a7a8621b523d55e932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_122
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 744
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d453915a5f834e37b9c8f90b199607b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_123
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 744
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb4fdca85e3b4341a3d0b474c999fff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_124
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 744
+        width: 37
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462b6d6fd03f34c699cdb90735feea10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_125
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 744
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecce96d5b2c2b48369fbb2fbb89a6465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_126
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 744
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e57c802f10c4fd1af137531969d322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_127
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 744
+        width: 39
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da3e0acd73ef460ba63d16e476003f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_128
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 744
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d060aa00719e6477fa55e25fe1a8582f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_129
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 744
+        width: 43
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e23fb3a1c304f0e93e65a5a8ba9206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_130
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 744
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e21e50f17e964dc6abd77e8ab2daa8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_131
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 744
+        width: 40
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728f68816ac984ad9b05d3b21a5f53f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_132
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 744
+        width: 36
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097c97b6ffb2048b788b9ad24a94d94d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_133
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 744
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab3ba90d75ed44ad9f683ef7e31c5f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_134
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 744
+        width: 50
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035e53b611b174a70b5ad407d7060ff0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_135
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 744
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82477dfaef57440aa28c66ef3b5b618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_136
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 744
+        width: 42
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a6329ec76d04a44b6de4f9d6a7f8f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_137
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 636
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6e8aef137d242239f814d3bbfacfc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_138
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 636
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbb06ded52dd4fb280d7f343900ff0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_139
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 636
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d0b3cdcc8c3403b84234df9bab6d25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_140
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 636
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459094ef34b28439daff4ff8703134f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_141
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 636
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0a040b8487f4c80b6a181f521f1b15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_142
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 636
+        width: 89
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eb641ae5f084a5da726672545f3b78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_143
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 636
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980cc7ca058f1454396cef15382e541d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_144
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 636
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8180b428ed7144ad18e0fa416a44926b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_145
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 636
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852fae5c281524341b027a3ec5062014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_146
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 636
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736bbb7bb46c749d09e8762f20305a1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_147
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 636
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc421027778247ddb0cb04c4d30c58e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_148
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 636
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88893ef11f7af4a65a3b67a9f5a75fc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_149
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 541
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75508858007264d90a5b546e3878dac2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_150
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 541
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18b6ffc2c88340218b021079e94140d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_151
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 541
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cced877d8f0eb4456899f63c0c0f82ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_152
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 541
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f084c6d7bcb8745c8a19fc64094fe12f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_153
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 541
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894d1511210454fd8993c1258a74ff2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_154
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 541
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e620e0be9e1434d19a2b83c2e2cb3387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_155
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 541
+        width: 89
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404401c5b0265478681e299e420cdf64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_156
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 541
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458b7eb9da3654a3a8f0cb718735535b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_157
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 541
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bff673072ebc48f8aaef74b4ebceba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_158
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 541
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a7886730fdc436e806345de566a084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_159
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 541
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db758f5c6bf8b4e16881fe9815022e2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_160
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 541
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb66972d1c8de486f958a1f0abcb647b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_161
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 431
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24326a57415a9447595376b0d7281993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_162
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 431
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e47e5e4d3cd4a238600f4d68fc0351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_163
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 431
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4421663fe8e34fb89aed30e81d695aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_164
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 488
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11d6cbf6b99f4a809bdb96827aa5d58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_165
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 512
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52f06e98d6e94452b62b445530d943f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_166
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 494
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebe140106feb49c790d2bf9afe70d44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 431
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc75e09f3dc4474789dd4bf45b7efe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_168
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 431
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d6408c323ab4b0081f589408b44bba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_169
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 431
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd019bb4a733d44e193bde0e3155b43e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_170
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 488
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00705c1a1435a4e59b9285ad7fabcaf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_171
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 431
+        width: 81
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037009e087fa34327b2325afe5ebea95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_172
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 479
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e59c3f939c44313a1f4a11a5f069a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_173
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 476
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9f7608235444da693380b2697e8a66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_174
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 459
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9c3104ae392404bb51bcee60b1ad4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_175
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 455
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef99a0de81506438ca41bfe654d0ea47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_176
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 431
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e943370898ed4c0d8ac8cb969a409f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_177
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 440
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d20bfd8d7ab4388852d84b8bfe2514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_178
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 431
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15b02f5bacef4b5388ba4c6cde503b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_179
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 319
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe083d92c69046b1bcd66ac06f90947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_180
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 319
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030ed9e8c25a1404eace37cd2518c1a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_181
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 319
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0be89ac66cd0453ca9ab4638faf6a1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_182
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 319
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db34e6c6fe66b4eb084fb394e83fbdf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_183
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 319
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ef7cb72e5344d30850ade5ba5a50e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_184
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 319
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4a44d3109374cfda8eddddbb6d6471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_185
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 319
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcd14f43fce54414b00b771ef6701ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_186
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 291
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156e4240097ff4680a8909468d9c523f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_187
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 289
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da895acf518b24f7a94940aaabea01c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_188
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 285
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d74be9d23db4ad1910181b88ad3ce5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_189
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 285
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb578d6ab4c84194a255197cc08e387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_190
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 289
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f22f83d5fc994baab97b8061f798b52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_191
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 289
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1ae6f20b81c4a25a8a6ca8b5cc55f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_192
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 285
+        width: 99
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04bbc0b4652944b0993623b9f52b8bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_193
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 285
+        width: 110
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad2869c79c714a4a97cd224bf9a67e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_194
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 291
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837ddedbc102046e791d3affe2d0fea4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_195
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 289
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d69b3591c91b4ba0b2cf73624c14549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_196
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 285
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba393d0c8f2074b21be4530a591dca14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_197
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 285
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e529f7fa3d848bf83918ff034a4c3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_198
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 289
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595b4fa2480a44749b6a5b9e7f353b89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_199
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 291
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f3b42d2e6754b9fa7114e799471ac5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_200
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 285
+        width: 99
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5d9699656a34bd6b084201be4d6488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_201
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 285
+        width: 110
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8407a2acc6e99481a819832ae90d89e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_202
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 292
+        width: 160
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74616e3fc27514e0abe9edea19372a58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_203
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 295
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7aec8ea38824b81b9e2b6d397c89b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_204
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 295
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c11d37fd09145b6859a8c1969e100d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_205
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 128
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90329d9f6227423abbb5dfd39000376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_206
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 128
+        width: 38
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca79976134eb6483bac2668faa1c351b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_207
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 128
+        width: 40
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f64f91fbef0c4412b44a3f096934836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_208
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 128
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319945b9db75748db8a49ae1c3241b9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_209
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 128
+        width: 38
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4238950f442204554be2c1c274ce08a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_210
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 128
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5c0e8ec99fc433eba90289ccf4a570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_211
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 128
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8be52d11e68f4007a289ff841af9424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_212
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 128
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f083a37dac16d4a538f68dde4d4323f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_213
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 128
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9201fe3532d04783aa365eea6233728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_214
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 128
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47e0a51545584f7d8506250e6bbf294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_215
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 128
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97afbe6eb7eaf4b1c97e09e0e451113f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_216
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 128
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0445a983681c540e4a49f896359e7fa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_217
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 128
+        width: 29
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea08906c0a16d443d989a666c70cb76a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_218
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 137
+        width: 56
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117f1851f43f14c0fb19734d14a7de5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_219
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 176
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767e79674a4c44eaaa58a72b5e6af93f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_220
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 128
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42db25cc606b46bda4404d846f07fa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_221
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 164
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1e16079b557489fb97b69fa72eac11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_222
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7645b38fd030d4bb0a5172a8fc08b03d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_223
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 128
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c28589c098f412abff478777e64153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_224
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 128
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a2ef401d749419a80fafd650f0793f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_225
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 128
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887912a1670064e088c0f5ae8eaa3fa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_226
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 139
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d6a3fd7d79a42a8a65298da6fcb45c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_227
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45d2f18c55d546a688229fa269520d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_228
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 132
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fa3a573178847e9941aa6ac831bf2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_229
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 128
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca50e503e5704c4894deb3840bb3f84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_230
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 39
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92259c82af75546d19d44c95c49abae1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_231
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 20
+        width: 35
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44795d086bf4e4dd7936fc4cff47596d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_232
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 20
+        width: 32
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e64f7186f0664fc8bd8848b7616f402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_233
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 20
+        width: 31
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9fdb8712d7d4ec2bd64e5f22f65c99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_234
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 20
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597322f3381274f89bc7eea7b7358c67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_235
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 20
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9b50811de4c47719cbb134f82edd77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_236
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 20
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce08f9a333984c6f8f6c950652efd5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_237
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 20
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad7d425e43e84ff89907b8119ea8c33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_238
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 20
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87afca260cdc140faa3ae880559a4abe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_239
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 95
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1488e5bc734f413dadbba03cce36045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_240
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 86
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654e8c6657c0646ea966982b012d82a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_241
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 90
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027c6bc8beb0a4c2491ebc3fa0653f81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_242
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 85
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf670aa05bbf438999969487e232928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_243
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 70
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4f4d9a79ebd46b2a0cc359799f4eb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_244
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 20
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acdbbdeab1004300923c6a19680fa0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_245
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 20
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dc61711ef034f85abafabf991fe33b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_246
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 20
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70de63a172a1440239b2768d2a04f160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_247
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4e704512bac4cc38071edaa62f67f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_248
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 72
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07809a86cefda4a6c96f1c458bbfe0fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_249
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 83
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0186e2eb01594e6f8eced0404dff34d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_250
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 77
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b723bad04a858415a958a7c974a444cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_251
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 20
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655b9ecaa07d549c3a9431b22bee631e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_252
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 74
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339bffc8c097d4630acef3561a00b603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_253
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 20
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a95f236d12c74b6094b31a21f14dab6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_254
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 20
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0a4d32958ae4fe494767bb6c4ec0db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_255
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 66
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d78756e8842428a9cd12aef8f56ab9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_256
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 64
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47295781daab24b9c8ccc3889e264153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_257
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 21
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49a7c992ab69458b9b3169054658f2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_258
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 57
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf369a953c4a34b87a62b7ccdcac8d3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_259
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 48
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2006644ac0bdb4fd4b0c6faf75b60236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_260
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 51
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8699d165897f4be7a597ec74984b537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_261
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 20
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5167dcf690b149c5bbd21eaedc0d488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_262
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 20
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec7cd52337d9485aa5fff9ec4a59b1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_263
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 20
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8398a42fc1521460eb8a56af218975d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_264
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845e23d0682e44f81901dc1eed57eb70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_265
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6684a076de0d48d499c9e274b1a71a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_266
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 20
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631e4af0c4e84412d9353911ee20a0f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_267
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 30
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361dbf3b99c864a5da4f070e5583948e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_268
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 24
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3528d6713ed4eebbf1e7fa289e0298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_269
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 25
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d3b9aee2b7d4194950b847ebdd1275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_270
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 24
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e9beed1cc9e4bd6b0a47d90c04b466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK1_reptile_271
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a5d36629a4a424097863e343cc2cec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 65d9d1d8f47a141f7b7685790595b34e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
